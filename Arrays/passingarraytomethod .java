@@ -3,7 +3,7 @@ package Arrays;
 public class passingarraytomethod {
 
 
-    
+         
     public static void change(int[]a, int[]b){
         int temp = a[0];
          a[0] = b[0];
