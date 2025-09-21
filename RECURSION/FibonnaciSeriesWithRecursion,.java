@@ -5,7 +5,7 @@ public class FibonnaciSeriesWithRecursion {
         // base case
         if(n==0 || n== 1){
             return n;
-        }
+        }. 
         // rceurrsive work
         int prev1 = fib(n-1);
         int prev2 = fib(n-2);
