@@ -14,7 +14,7 @@ public class Geeks {
         System.out.println("Software name is:"+ name);
         System.out.println("Software price is:"+ price);
     }
-
+ 
     public static void main(String[] args) {
         Geeks.set("Visual studio", 0.2f);
         Geeks.get();
