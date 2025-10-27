@@ -17,4 +17,4 @@ public class StringBufferEx {
             System.out.println(str);
         }
     }
-
+ 
