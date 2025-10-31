@@ -22,4 +22,4 @@ public class Target_From_Sorted_Array {
         int target = 0;
         System.out.println(binarysearch(num, target));
     }
-}
+} 
