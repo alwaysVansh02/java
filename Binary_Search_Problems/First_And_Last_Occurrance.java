@@ -3,7 +3,7 @@
 // For ex--> Input--> nums = {5,7,7,88,10};
 // Output shoud be the indexes --> {3,4};
 package BinarySearch_Problem;
-
+  
 public class First_And_Last_OccuranceOf_Element {
     static int findfirstpos(int[] nums, int target) {
         int left = 0;
