@@ -18,4 +18,4 @@ public class divisiblebt5and3 {
             System.out.println(" invallid triangle ");
 
     }
-}
+} 
