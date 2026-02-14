@@ -19,4 +19,4 @@ public class Geeks {
         Geeks.set("Visual studio", 0.2f);
         Geeks.get();
     }
-}
+} 
