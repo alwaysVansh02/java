@@ -9,7 +9,7 @@ public class First_And_Last_OccuranceOf_Element {
         int left = 0;
         int right = nums.length - 1;
         int firstidx = -1;
-        while (left <= right) {
+        while (left <= right) { 
             int mid = (left + right) / 2;
             if (nums[mid] == target) {
                 firstidx = mid;
