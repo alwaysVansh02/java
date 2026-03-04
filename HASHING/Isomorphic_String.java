@@ -25,7 +25,7 @@ public class Iomorphic_String {
                 mapTS.put(c2,c1);
             }
         }
-        return true;
+        return true; 
     }
 
     public static void main(String[] args) {
