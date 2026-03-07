@@ -11,3 +11,4 @@ public class absolutevalue {
         System.out.println(" the absolute value is : " +n);
     }
 }
+ 
