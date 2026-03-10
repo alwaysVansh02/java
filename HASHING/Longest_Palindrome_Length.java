@@ -10,7 +10,7 @@ public class Longest_Palindrome {
             int count = map.getOrDefault(ch,0)+ 1;
             map.put(ch,count);
             if (count % 2 ==0){
-                length += 2;
+                length += 2; 
             }
         }
         if (length<s.length()){
