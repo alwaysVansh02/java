@@ -11,7 +11,7 @@ public class Geeks {
         price =p;
     }
     static void get(){
-        System.out.println("Software name is:"+ name);
+        System.out.println("Software name is:"+ name); 
         System.out.println("Software price is:"+ price); 
     }
   
