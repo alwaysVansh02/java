@@ -20,7 +20,7 @@ public class GuessNumber_HigerOrLower {
         int left = 1, right = n;
         while (left<=right){
             int mid = left + (right - left)/2;
-            int guessres = guess(mid);
+            int guessres = guess(mid); 
             if (guessres == 0){
                 return mid;
             } else if (guessres == -1) {
