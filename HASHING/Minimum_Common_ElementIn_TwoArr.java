@@ -10,7 +10,7 @@ public class Minimum_Common_Value {
        }
        for (int num : nums2){
            if (set.contains(num)) {
-               return num;
+               return num; 
            }
        }
        return -1;
