@@ -13,7 +13,7 @@ public class Iomorphic_String {
                 if (mapST.get(c1) != c2){
                     return  false;
                 }
-            }
+            } 
             else {
                 mapST.put(c1,c2);
             }
