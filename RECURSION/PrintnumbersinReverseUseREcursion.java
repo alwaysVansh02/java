@@ -9,7 +9,7 @@ public class PrintnumbersinReverseUseREcursion {
             System.out.println(n);
             return;
         }
-        // self work
+        // self work 
         System.out.println(n); 
         // recursive work
         printdecrease(n-1);
