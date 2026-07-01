@@ -9,7 +9,7 @@ public class PascalsTriangleTwoDArray {
                 System.out.print(matrix[i][j] + " ");
             }
             System.out.println();
-        }
+        } 
     }
     static int[][] pascal(int n){
         int [][] ans = new int[n][];  // kiu ki har col ka size alag h
