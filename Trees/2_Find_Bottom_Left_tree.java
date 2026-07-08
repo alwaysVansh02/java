@@ -21,7 +21,7 @@ public class Find_Bottom_Left_tree {
             return;
         }
         if (depth > maxDepth){
-            maxDepth = depth;
+            maxDepth = depth; 
             ans = node.val;
         }
         dfs(node.left, depth +1);
