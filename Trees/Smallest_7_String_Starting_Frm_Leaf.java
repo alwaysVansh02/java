@@ -20,7 +20,7 @@ public class Smallest_String_Starting_Frm_Leaf {
             return;
         }
         char ch = (char) (root.val + 'a');
-        currString = ch + currString;
+        currString = ch + currString; 
         if (root.left == null && root.right ==  null){
             if (smallestString == "" || smallestString.compareTo(currString) > 0){
                 smallestString= currString;
